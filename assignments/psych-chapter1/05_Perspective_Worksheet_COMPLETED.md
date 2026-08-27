@@ -68,7 +68,7 @@ Two of the ten perspectives on this worksheet — **Developmental** and **Psycho
 
 **Important People (worksheet cell):** Charles Darwin (theory of evolution by natural selection) and David Buss (professor at UT Austin, a founder of modern evolutionary psychology — applies the perspective to personality traits, intelligence, and behaviors like risk-taking).
 
-**Deeper:** Table 1.1 question: *How does natural selection influence thoughts, emotions, and behaviors?* Slide example: finch beak size shifting during droughts — "natural selection right before your eyes." Darwin also inspired William James' functionalism, the historical ancestor of this perspective.
+**Deeper:** Table 1.1 question: *How does natural selection influence thoughts, emotions, and behaviors?* Slide example: birds and beak size (finches); the textbook elaborates — in a drought, big-beaked finches that can crack the remaining tough seeds survive and reproduce, "natural selection right before your eyes" (textbook). Darwin also inspired William James' functionalism, the historical ancestor of this perspective.
 
 ## 9. Psychoanalytic
 

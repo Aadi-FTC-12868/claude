@@ -247,7 +247,7 @@ The working parts:
 4. **Perspectives:** psychoanalytic, behavioral, humanistic, cognitive, evolutionary, biological, sociocultural, biopsychosocial — different vantage points on complex behavior.
 5. **Scientific method:** develop a question → hypothesis → design study & collect data → analyze → publish; cyclical, with critical thinking at every step.
 6. **Random vs. representative sample:** random = everyone has an equal chance of selection; representative = sample characteristics mirror the population; random sampling promotes representativeness, which permits generalization.
-7. **Descriptive research:** naturalistic observation, case studies, surveys — describe and explore, especially new topics; cannot establish cause and effect.
+7. **Descriptive research:** naturalistic observation, case studies, surveys, and correlations (the slides' four types) — describe and explore, especially new topics; cannot establish cause and effect.
 8. **Correlational method:** measures relationships (r from –1.00 to +1.00; sign = direction, magnitude = strength); enables prediction but NEVER proves causation (third variables, directionality).
 9. **Experimental method:** manipulates the IV, measures the DV, holds everything else constant via random assignment and controls; the one method that can determine cause and effect.
 10. **Ethics:** do no harm; IRB approval; informed consent; debriefing; confidentiality; welfare of humans and animals; accuracy and dignity.
