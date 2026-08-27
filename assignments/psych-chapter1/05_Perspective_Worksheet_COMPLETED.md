@@ -52,7 +52,7 @@ Two of the ten perspectives on this worksheet — **Developmental** and **Psycho
 
 **Important People (worksheet cell):** Ivan Pavlov (classical conditioning — dogs learning to salivate to signals), John B. Watson (founded behaviorism), B.F. Skinner (operant conditioning — behavior shaped by rewards and punishments). [Supplemental: Albert Bandura for learning by observation.]
 
-**Deeper:** Table 1.1 question: *How does learning shape behavior?* The behaviorists are the chapter's strongest **nurture** advocates — though twin studies show nature plays a pivotal role too. Watson threw out consciousness entirely; Skinner admitted mental processes exist but said they can't be studied scientifically.
+**Deeper:** Table 1.1 question: *How does learning shape behavior?* The behaviorists are the chapter's strongest **nurture** advocates — though twin studies show nature plays a pivotal role too. Watson threw out consciousness entirely; Skinner acknowledged mental processes such as memory and emotion might exist, but insisted they are not topics to be studied in psychology.
 
 ## 7. Social-cultural (Sociocultural)
 

@@ -9,7 +9,7 @@ Upload these four documents as sources in one NotebookLM notebook:
 3. `03_Key_Terms_Glossary_and_Self_Test` — every key term defined + the book's own practice questions with official answers + spoken quiz prompts
 4. `05_Perspective_Worksheet_COMPLETED` — the filled-out "Chapter 1 – Theories" perspectives worksheet (all 10 perspectives with focus + important people)
 
-(PDF and Markdown versions of each are included — upload either format; the content is identical.)
+(PDF, Word, and Markdown versions are included. For documents 01–03 the content is identical across formats — upload whichever NotebookLM takes. For document 05, upload the **Markdown** version: it carries the full explanations, while the Word/PDF versions are the filled-in worksheet layout for submitting or copying by hand.)
 
 ## Suggested podcast customization prompt
 

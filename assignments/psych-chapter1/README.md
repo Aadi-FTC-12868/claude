@@ -10,7 +10,7 @@ Prep package for Chapter 1 ("Introduction to the Science of Psychology") built f
 | `02_Chapter1_Master_Study_Guide` (.md / .docx / .pdf) | Complete chapter walkthrough — all 10 learning objectives, the Sam & Anaïs twin story, all perspectives, the scientific method, research methods, correlation, experiments, ethics, positive psychology |
 | `03_Key_Terms_Glossary_and_Self_Test` (.md / .docx / .pdf) | Every key term defined, the book's own practice questions with official Appendix C answers, and 27 spoken-review quiz prompts |
 | `04_NotebookLM_Podcast_Instructions.md` | What to upload to NotebookLM and a ready-to-paste podcast customization prompt |
-| `05_Perspective_Worksheet_COMPLETED` (.md / .docx / .pdf) | The "Chapter 1 – Theories" perspectives worksheet filled out — all 10 perspectives with focus + important people (docx mirrors the original worksheet's table layout) |
+| `05_Perspective_Worksheet_COMPLETED` (.md / .docx / .pdf) | The "Chapter 1 – Theories" perspectives worksheet filled out — all 10 perspectives with focus + important people. The .md has the full explanations (use for NotebookLM); the .docx/.pdf mirror the original worksheet's table layout for submitting |
 
 ## How to use
 
