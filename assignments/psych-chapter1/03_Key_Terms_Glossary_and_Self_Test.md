@@ -38,6 +38,8 @@ Part 1 is a complete glossary of every key term with the textbook's definition (
 
 **Double-blind study** — A study in which neither the researchers administering the independent variable nor the participants know what type of treatment is being given. Controls both participant expectations and experimenter bias.
 
+**Evolutionary perspective** — An approach that uses knowledge about evolutionary forces, such as natural selection, to understand behavior: thoughts, emotions, and behaviors are shaped because inherited traits increase in frequency when adaptive and decrease when maladaptive. (Based on Darwin's theory; David Buss is a modern founder.)
+
 **Experiment** — A controlled procedure involving careful examination through scientific observation and/or manipulation of variables.
 
 **Experimental group** — The members of an experiment exposed to the treatment variable or manipulation; the treatment group.
@@ -187,7 +189,7 @@ Bonus (not on the key-terms list but used in the chapter): **empirical evidence*
 20. A case study can never support or refute a hypothesis — why? *(It's a sample of one; hypothesis testing requires comparisons between conditions.)*
 
 **Ethics and beyond:**
-21. Name four principles the APA/APS/BPS guidelines encourage. *(Do no harm; safeguard welfare of humans and animals; know responsibilities to society/community; maintain accuracy; respect human dignity.)*
+21. Name the five principles the APA/APS/BPS guidelines encourage. *(Do no harm; safeguard welfare of humans and animals; know responsibilities to society/community; maintain accuracy; respect human dignity.)*
 22. Informed consent vs. debriefing — before or after, and what does each cover? *(Consent before: procedures, risks, benefits, confidentiality, right to withdraw; debriefing after: purpose and any deception.)*
 23. When MUST a therapist break confidentiality? *(Danger to self or others; abuse, neglect, or domestic violence; court order.)*
 24. What board must approve all human and animal research? *(The Institutional Review Board — IRB.)*
